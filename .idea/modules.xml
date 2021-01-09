@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Danger level/Minesweeper.Problems-Danger_level.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Danger level/Minesweeper.Problems-Danger_level.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Danger level/Minesweeper.Problems-Danger_level.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Danger level/Minesweeper.Problems-Danger_level.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Danger level/Minesweeper.Problems-Danger_level.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Danger level/Minesweeper.Problems-Danger_level.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rainbow colors/Minesweeper.Problems-Rainbow_colors.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rainbow colors/Minesweeper.Problems-Rainbow_colors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rainbow colors/Minesweeper.Problems-Rainbow_colors.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rainbow colors/Minesweeper.Problems-Rainbow_colors.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rainbow colors/Minesweeper.Problems-Rainbow_colors.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rainbow colors/Minesweeper.Problems-Rainbow_colors.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The maximum pairwise product/Minesweeper.Problems-The_maximum_pairwise_product.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The maximum pairwise product/Minesweeper.Problems-The_maximum_pairwise_product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The maximum pairwise product/Minesweeper.Problems-The_maximum_pairwise_product.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The maximum pairwise product/Minesweeper.Problems-The_maximum_pairwise_product.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The maximum pairwise product/Minesweeper.Problems-The_maximum_pairwise_product.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The maximum pairwise product/Minesweeper.Problems-The_maximum_pairwise_product.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The rainbow order/Minesweeper.Problems-The_rainbow_order.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The rainbow order/Minesweeper.Problems-The_rainbow_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The rainbow order/Minesweeper.Problems-The_rainbow_order.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The rainbow order/Minesweeper.Problems-The_rainbow_order.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The rainbow order/Minesweeper.Problems-The_rainbow_order.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The rainbow order/Minesweeper.Problems-The_rainbow_order.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of digits/Minesweeper.Problems-The_sum_of_digits.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of digits/Minesweeper.Problems-The_sum_of_digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of digits/Minesweeper.Problems-The_sum_of_digits.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of digits/Minesweeper.Problems-The_sum_of_digits.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of digits/Minesweeper.Problems-The_sum_of_digits.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of digits/Minesweeper.Problems-The_sum_of_digits.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.test.iml" />
+    </modules>
+  </component>
+</project>

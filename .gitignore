@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/
+/Minesweeper/task/out/production/classes/
+/Minesweeper/task/out/test/classes/
+/Problems/Danger level/out/
+/Problems/Danger level/out/production/classes/
+/Problems/Rainbow colors/out/
+/Problems/Rainbow colors/out/production/classes/
+/Problems/The maximum pairwise product/out/
+/Problems/The maximum pairwise product/out/production/classes/
+/Problems/The rainbow order/out/
+/Problems/The rainbow order/out/production/classes/
